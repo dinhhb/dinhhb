@@ -53,4 +53,10 @@ M2 Machine Learning & Data Mining student (graduating Sep 2026), specializing in
 
 ---
 
-*📍 Toulouse, France · 🌐 EN (C1) · FR (B1) · VI (Native)*
+## 🌐 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇬🇧 English | C1 |
+| 🇫🇷 French | B1 |
+| 🇻🇳 Vietnamese | Native |
